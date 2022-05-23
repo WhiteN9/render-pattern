@@ -1,4 +1,4 @@
-# render-pattern
+# render-pattern-for-shopping-cart
 This is about utilizing JavaScript to create render pattern page.
 In form of a landing page for checking out a cart containing added books.
 
